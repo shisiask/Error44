@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/integer_tests[1]_tests.cmake")
+  include("C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/integer_tests[1]_tests.cmake")
+else()
+  add_test(integer_tests_NOT_BUILT integer_tests_NOT_BUILT)
+endif()

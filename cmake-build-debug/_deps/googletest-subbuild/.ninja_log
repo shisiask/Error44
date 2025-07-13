@@ -1,0 +1,21 @@
+# ninja log v6
+2495	2601	7740952588359595	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b14e531667ea6fc5
+6	229	7740952564500764	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	1b85b9a30678e9f8
+2159	2279	7740952585126874	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	c132eaf06b261e9a
+2495	2601	7740952588359595	C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b14e531667ea6fc5
+6	229	7740952564500764	C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	1b85b9a30678e9f8
+232	2158	7740952583912840	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	9a7d6c98f512ecd
+2279	2397	7740952586298800	C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	2f53f2bbbd44eb75
+232	2158	7740952583912840	C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	9a7d6c98f512ecd
+2159	2279	7740952585126874	C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	c132eaf06b261e9a
+2279	2397	7740952586298800	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	2f53f2bbbd44eb75
+2398	2494	7740952587274514	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	676c747da8fae9b2
+2833	3038	7740952592609515	CMakeFiles/googletest-populate-complete	fca3b944e55455dc
+2398	2494	7740952587274514	C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	676c747da8fae9b2
+2700	2832	7740952590625766	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	47537c73d01fa41f
+2602	2700	7740952589339258	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	f9fc5a41274b85f1
+2602	2700	7740952589339258	C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	f9fc5a41274b85f1
+2700	2832	7740952590625766	C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	47537c73d01fa41f
+2833	3038	7740952592609515	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	fca3b944e55455dc
+2833	3038	7740952592609515	C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	fca3b944e55455dc
+2833	3038	7740952592609515	C:/Users/ostee/PC1/310/biginteger-assignment-shisiask/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	fca3b944e55455dc
